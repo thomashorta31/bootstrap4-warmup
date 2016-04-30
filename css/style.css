@@ -1,0 +1,20 @@
+body{
+    font-size: 1em;/*should be 16on alll modern browsers */
+}
+
+h1{
+    font-size: 2em; /*32px*/
+}
+.navbar .navbar-brand {
+        color: rgba(255, 255, 255, .85);
+        font-size: 1rem;
+        padding-top: .45rem;
+}
+.jumbotron {
+  background: url('https://nflcdns.nfl.com/static/content/static/config/super-bowl-city/2015/landing/background.jpg');
+  background-size: cover;
+}
+.btn,
+.active {
+  transition: .4s
+}
